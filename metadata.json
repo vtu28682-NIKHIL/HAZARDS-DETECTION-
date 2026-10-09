@@ -1,0 +1,6 @@
+{
+  "name": "DisasterLens AI",
+  "description": "AI-Powered Disaster Intelligence, Transparent Priority Scoring & Emergency Response Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
